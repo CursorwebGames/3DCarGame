@@ -13,6 +13,12 @@ public class PlayerMovement : MonoBehaviour
         Vector3 direction = new Vector3(horizontal, 0, vertical);
         direction.Normalize();
 
-        rb.velocity = transform.TransformDirection(direction * Time.fixedDeltaTime);
+        rb.velocity += transform.TransformDirection(direction * speed * Time.fixedDeltaTime);
+        rb.velocity.Normalize();
+
+        if (Input.GetKey(KeyCode.X))
+        {
+            rb.velocity = new Vector3(0, 0, 0);
+        }
     }
 }
