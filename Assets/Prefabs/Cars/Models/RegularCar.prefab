@@ -140,7 +140,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 41ca3c35fe9b3764d98e8baa044e31c1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -302,7 +302,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 41ca3c35fe9b3764d98e8baa044e31c1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -430,13 +430,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1575353823753621315}
-  m_LocalRotation: {x: 0.0873984, y: -0, z: -0, w: 0.99617344}
-  m_LocalPosition: {x: -0.31, y: 2.46, z: -0.0069999993}
+  m_LocalRotation: {x: 0.0412652, y: -0, z: -0, w: 0.9991483}
+  m_LocalPosition: {x: -0.308, y: 2.362, z: -0.06099999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6616190669411436303}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 10.028, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 4.73, y: 0, z: 0}
 --- !u!20 &5876066043495755466
 Camera:
   m_ObjectHideFlags: 0
@@ -462,7 +462,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 70
   orthographic: 0
   orthographic size: 5
   m_Depth: -1

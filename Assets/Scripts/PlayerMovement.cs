@@ -32,7 +32,8 @@ public class PlayerMovement : MonoBehaviour
         // reset
         if (Input.GetKey(KeyCode.R))
         {
-            player.localRotation = Quaternion.identity;
+            player.localRotation = Quaternion.identity * Quaternion.AngleAxis(player.localRotation.y, Vector3.up);
+            rb.velocity = new Vector3(0, 0, 0);
         }
     }
 }
