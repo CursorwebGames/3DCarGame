@@ -48,6 +48,8 @@ MonoBehaviour:
   turnSpeed: 0.75
   player: {fileID: 8930814752564185889}
   rb: {fileID: 935668419142762019}
+  maxHorizDeg: 50
+  resetSpeed: 5
 --- !u!1 &5623652460722421884
 GameObject:
   m_ObjectHideFlags: 0

@@ -4,23 +4,36 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed;
     public float turnSpeed;
+
     public Transform player;
     public Rigidbody rb;
 
+    public float maxHorizDeg = 45f;
+    public float resetSpeed = 50f;
+
+
     void FixedUpdate()
     {
+        // movement
+        // local vector
+        Vector3 localUp = player.up;
+        Quaternion vertAng = Quaternion.FromToRotation(localUp, Vector3.up) * rb.rotation;
+        float vertAngDiff = Quaternion.Angle(rb.rotation, vertAng);
+        if (vertAngDiff < maxHorizDeg)
+        {
+            // move only if it is upright
+            float vertical = Input.GetAxis("Vertical");
+            Vector3 direction = new Vector3(0, 0, vertical);
+            rb.velocity += player.TransformDirection(direction * speed * Time.fixedDeltaTime);
+            rb.velocity.Normalize();
+        }
+
+
         // rotation
         float horizontal = Input.GetAxis("Horizontal") * turnSpeed;
 
         Quaternion rotation = Quaternion.AngleAxis(horizontal, Vector3.up);
         player.localRotation *= rotation;
-
-
-        // movement
-        float vertical = Input.GetAxis("Vertical");
-        Vector3 direction = new Vector3(0, 0, vertical);
-        rb.velocity += player.TransformDirection(direction * speed * Time.fixedDeltaTime);
-        rb.velocity.Normalize();
 
 
         // brakes
