@@ -8,9 +8,10 @@ public class ThirdPersonCam : MonoBehaviour
     public float camY;
 
 
-    void Update()
+    private void Update()
     {
-        transform.position = new Vector3(camPos.position.x, camY, camPos.position.z);
+        float posY = Mathf.Clamp(camY + camPos.position.y, camY, float.MaxValue);
+        transform.position = new Vector3(camPos.position.x, posY, camPos.position.z);
         transform.LookAt(lookAt);
     }
 }

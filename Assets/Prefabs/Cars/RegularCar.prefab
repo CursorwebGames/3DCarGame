@@ -115,10 +115,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: RegularCar
       objectReference: {fileID: 0}
-    - target: {fileID: 4605054638670310656, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6313857057093940785, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
       propertyPath: m_RootOrder
       value: 2

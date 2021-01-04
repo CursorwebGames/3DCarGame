@@ -166,7 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookAt: {fileID: 1112411005442079588}
   camPos: {fileID: 7507660555396002820}
-  camY: 2
+  camY: 1
 --- !u!1 &5451618353247937686
 GameObject:
   m_ObjectHideFlags: 0
