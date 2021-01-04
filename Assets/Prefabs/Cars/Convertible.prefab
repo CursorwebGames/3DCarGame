@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1112411005442079588, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2470213893469233686, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.08
@@ -91,6 +95,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7507660555396002820, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8191268509874499854, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
+      propertyPath: firstPerson
+      value: 
+      objectReference: {fileID: 1591000735578623911}
     - target: {fileID: 8930814752564185889, guid: 3ce3b7e257e4f2649af8b699ea9957d3, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -187,3 +199,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5178e4fa41008ed48814f45b99c01dbb, type: 3}
+--- !u!1 &1591000735578623911 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6441832037952805213, guid: 5178e4fa41008ed48814f45b99c01dbb, type: 3}
+  m_PrefabInstance: {fileID: 5724535439061473018}
+  m_PrefabAsset: {fileID: 0}

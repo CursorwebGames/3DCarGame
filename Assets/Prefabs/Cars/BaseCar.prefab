@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3608453175669219616}
   - component: {fileID: 2785693495061284291}
+  - component: {fileID: 8191268509874499854}
   m_Layer: 0
   m_Name: BaseCar
   m_TagString: Player
@@ -51,6 +52,21 @@ MonoBehaviour:
   rb: {fileID: 935668419142762019}
   maxHorizDeg: 30
   resetSpeed: 5
+--- !u!114 &8191268509874499854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4026064169146017456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2741ae8871ff7844da6c9cc4c3296a56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thirdPerson: {fileID: 4605054638670310656}
+  firstPerson: {fileID: 0}
+  isFirstPerson: 1
 --- !u!1 &4605054638670310656
 GameObject:
   m_ObjectHideFlags: 0
