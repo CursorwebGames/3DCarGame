@@ -539,3 +539,625 @@ Received Import Request.
 Start importing Assets/Prefabs/Wall.prefab using Guid(86c8ee8697a9d404da3a78731d3814f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5dc7cba4f90fc6301f5cc008ea2f27') in 0.081265 seconds
   Import took 0.084986 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.764600 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.035000 ms MarkObjects: 2.366800 ms  DeleteObjects: 0.137100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.096 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 9.481100 ms (FindLiveObjects: 1.093600 ms CreateObjectMapping: 0.522300 ms MarkObjects: 7.568800 ms  DeleteObjects: 0.290100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 526.430727 seconds.
+  path: Assets/Materials/SoccerBall.mat
+  artifactKey: Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SoccerBall.mat using Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fdd8d24999cf50c9a6af62d19f50be') in 0.095791 seconds
+  Import took 0.098831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.491948 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.084701 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.089040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003551 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007890 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031874 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008172 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030919 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010117 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036687 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009229 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036945 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009292 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037419 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009418 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035639 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009208 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036691 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010023 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036038 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007651 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031984 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007247 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031736 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009701 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037283 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009078 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033116 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007173 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033245 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007363 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035659 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007717 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032243 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011040 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.014660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032305 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007329 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043697 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009720 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032763 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009924 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039845 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009611 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035300 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010114 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034993 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009609 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030045 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007473 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034222 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010804 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.014264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028435 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011751 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.015124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036179 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010655 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036384 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009129 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034745 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007488 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.010958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031708 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009968 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034393 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010640 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033610 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009431 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031781 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007902 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.010968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033619 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008128 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036734 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010154 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040574 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007737 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073363 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007315 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.010232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049087 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008993 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048632 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008009 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041636 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009374 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044838 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008205 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045265 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009511 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.012103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054316 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010249 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.013076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044606 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007497 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044124 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008082 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.011456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054461 seconds.
+  path: Assets/Textures/SoccerBall.jpeg
+  artifactKey: Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SoccerBall.jpeg using Guid(97487dc6abc4ccb4886feab804fd6623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007066 seconds
+  ERROR: Build asset version error: assets/textures/soccerball.jpeg in SourceAssetDB has modification time of '2021-01-04T20:31:45.9420535Z' while content on disk has modification time of '2021-01-04T20:32:01.2068108Z'
+  Import took 0.009751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.833553 seconds.
+  path: Assets/Materials/SoccerBall.mat
+  artifactKey: Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SoccerBall.mat using Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585d646a59a322dd9ea3dbbc96902528') in 0.021378 seconds
+  Import took 0.024890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.361387 seconds.
+  path: Assets/Materials/SoccerBall.mat
+  artifactKey: Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SoccerBall.mat using Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886d99626578a17a8999cf33b142beda') in 0.023154 seconds
+  Import took 0.026196 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001195 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 3.018400 ms (FindLiveObjects: 0.569300 ms CreateObjectMapping: 0.119500 ms MarkObjects: 2.257900 ms  DeleteObjects: 0.065500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.046104 seconds.
+  path: Assets/Materials/SoccerBall.mat
+  artifactKey: Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SoccerBall.mat using Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfc39b5d5f64c22937d10b6c96d803d') in 0.125168 seconds
+  Import took 0.129678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.206488 seconds.
+  path: Assets/Materials/SoccerBall.mat
+  artifactKey: Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SoccerBall.mat using Guid(e58dd7a8394ef154fb40ae6306a11c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef35e045ab1cca1b39a090ee7eb3273') in 0.024420 seconds
+  Import took 0.027646 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 73.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 2.260200 ms (FindLiveObjects: 0.222500 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.934900 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000653 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 2.484300 ms (FindLiveObjects: 0.170000 ms CreateObjectMapping: 0.052300 ms MarkObjects: 2.155800 ms  DeleteObjects: 0.103900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.533 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 3.261300 ms (FindLiveObjects: 0.414500 ms CreateObjectMapping: 0.070500 ms MarkObjects: 2.637600 ms  DeleteObjects: 0.136200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 2.980500 ms (FindLiveObjects: 0.385800 ms CreateObjectMapping: 0.192100 ms MarkObjects: 2.264100 ms  DeleteObjects: 0.135000 ms)
+
