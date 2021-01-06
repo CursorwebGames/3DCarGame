@@ -123,7 +123,7 @@ QualitySettings:
     PSP2: 1
     Stadia: 2
     Standalone: 2
-    WebGL: 1
+    WebGL: 2
     Windows Store Apps: 2
     XboxOne: 2
     iPhone: 1

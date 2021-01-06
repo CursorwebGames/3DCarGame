@@ -24,7 +24,11 @@ public class PlayerMovement : MonoBehaviour
             // move only if it is upright
             float vertical = Input.GetAxis("Vertical");
             Vector3 direction = new Vector3(0, 0, vertical);
-            rb.velocity += player.TransformDirection(direction * speed * Time.fixedDeltaTime);
+
+            float playerSpeed = speed;
+            if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)) playerSpeed *= 2;
+
+            rb.velocity += player.TransformDirection(direction * playerSpeed * Time.fixedDeltaTime);
             rb.velocity.Normalize();
         }
 
