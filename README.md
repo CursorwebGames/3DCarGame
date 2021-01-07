@@ -8,3 +8,4 @@ This is the 3D Car Simulator! Have fun!
 Use WASD to move. Jump through obstacles and let your imagination run wild!
 
 ## Screenshots
+![Car Crashing](Assets/Textures/Logo.png)
